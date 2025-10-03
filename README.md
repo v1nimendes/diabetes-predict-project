@@ -70,7 +70,7 @@ A API expõe o modelo de previsão de diabetes, permitindo que previsões sejam 
     * **Descrição:** Realiza a previsão de diabetes com base nos dados do paciente enviados como parâmetros na URL.
     * **Exemplo de URL:**
         ```
-        [http://127.0.0.1:8000/predict/6/148/72/35/0/33.6/0.627/50](http://127.0.0.1:8000/predict/6/148/72/35/0/33.6/0.627/50)
+        https://api-diabetes.v1nimendes.com.br/predict/6/148/72/35/0/33.6/0.627/50
         ```
     * **Exemplo de Resposta:**
         ```json
